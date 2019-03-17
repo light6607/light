@@ -148,3 +148,6 @@ int cal(int m, int n) {
 ```math
 	S=\pi r^2
 ```
+$$
+E \approx mc^2
+$$
