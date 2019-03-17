@@ -144,3 +144,7 @@ int cal(int m, int n) {
 其实所有时间复杂度都逃不过下图四种！
 
 ![image](https://static001.geekbang.org/resource/image/49/04/497a3f120b7debee07dc0d03984faf04.jpg)
+
+```math
+	S=\pi r^2
+```
